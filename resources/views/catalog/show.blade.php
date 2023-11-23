@@ -61,5 +61,5 @@
         </div>
       </div>
   </div>
-  <a href="https://www.hackstore.rs">Ir a una pagina mas actualizada de peliculas </a>
+  
 @endsection
